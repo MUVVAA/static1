@@ -1,0 +1,174 @@
+#s1{
+    align-items: center;
+    background-color: rgb(255, 250, 250);
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+
+#sec2{
+    text-align: center;
+    font-size: large;
+}
+#sec3{
+    text-align: center;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+#sec4{
+    text-align: left;
+    font-size: large;
+    margin-top: -400px;
+    background-color: rgb(246, 238, 238);
+    color: rgb(18, 17, 17);
+    position: relative;
+}
+.center1{
+    margin-top: -600px;
+    padding-left: 320px;
+}
+.center2{
+    
+    padding-left: 200px;
+}
+.center3{
+    
+    padding-left: 230px;
+}
+.center4{
+
+    padding-left: 170px;
+}
+.center5{
+    
+    padding-left: 300px;
+}
+
+#center1{
+    margin-top: -1000px;
+    padding-left: 200px;
+    color: white;
+    font-size: 20px;
+}
+#center2{
+    
+    padding-left: 200px;
+}
+#center3{
+    color: white;
+    font-size: 50px;
+    padding-left: 200px;
+}
+#s6{
+    text-align: center;
+    margin-top: 900px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 20px;
+}
+#sec7{
+    margin-left: 200px;
+    text-align: left;
+}
+#sec8{
+    margin-left: 520px;
+    text-align: left;
+    margin-top: -300px;
+}
+#sec9{
+    margin-left: 810px;
+    text-align: left;
+    margin-top: -330px;
+}
+#sec10{
+    margin-left: 1200px;
+    text-align: left;
+    margin-top: -330px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+}
+.a1{
+    padding-left: 150px;
+    margin-top: -600px;
+    text-align: left;
+}
+.a2{
+    padding-left: 740px;
+    margin-top: -500px;
+    text-align: left;
+}
+.a3{
+    padding-left: 1100px;
+    margin-top: -600px;
+    text-align: left;
+}
+#s12{
+    align-items: center;
+    margin-top: 450px;
+    padding-left: 50px;
+}
+.a4{
+    font-size: 50px;
+    padding-left: 500px;
+    margin-top: -500px;
+}
+.a5{
+    padding-left:520px ;
+}
+.a6{
+    padding-left:620px ;
+}
+.a8{
+    padding-left: 900px;
+    margin-top: -200px;
+}
+.b1{
+    margin-left: 1000px;
+}
+.b2{
+    margin-left: 1050px;
+}
+.b3{
+    margin-left: 1120px;
+    margin-top: -20px;
+
+}
+#b4{
+    padding-left: 150px;
+    margin-top: 300px;
+}
+.b5{
+    margin-left: 700px;
+
+}
+.b9{
+    margin-top: -20px;
+}
+
+#s18{
+    text-align: center;
+    justify-content: center;
+    font-size: 5px;
+}
+/*#links,a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -100px;
+    color: rgb(32, 31, 31);
+}*/
+
+
+
+
