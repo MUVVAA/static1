@@ -1,0 +1,149 @@
+a{
+    text-decoration: none;
+    left: 200px;
+    top: 300px;
+}
+p{
+
+    font-size: larger;
+}
+
+
+.centered4{
+    position: absolute;
+    top: 1080px;
+    color: rgb(62, 222, 62);
+    font-size: 20px;
+    left: 470px;
+    font-family: 'nixie_oneregular';
+    transform:translate(-50%,-50%)
+
+}
+
+.centered5{
+    position: absolute;
+    top: 1100px;
+    color: rgb(194, 205, 194);
+    font-size: 9px;
+    left: 415px;
+    font-family: 'nixie_oneregular';
+    transform:translate(-50%,-50%)
+
+}
+
+.centered6{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 1070px;
+    left: 1000px;
+}
+
+.centered7{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 1070px;
+    left: 1030px;
+
+}
+.centered8{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 1070px;
+    left: 1060px;
+
+}
+
+.centered9{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 1070px;
+    left: 1090px;
+
+}
+
+#mahi{
+    width: 900px;
+    height: 900px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -15px;
+    text-align: center;
+    color: #99fa99;
+    margin-top: -10px;
+    margin-right: 200px;
+}
+
+h2{
+    color: #21a51e;
+    font-family: 'nixie_oneregular';
+    text-align: left;
+    font-size:x-large;
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+
+#z{
+    color: #315f52;
+    margin-left:-450px;
+
+
+}
+#l{
+    margin-left:-800px;
+    padding-top: 20px;
+}
+#d{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.centered1{
+    margin-top: -90px;
+    margin-left: 10px;
+    font-size: 10px;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+.centered2{
+    margin-top:-110px ;
+    margin-left:120px ;
+    color: rgb(61, 237, 49);
+}
+
+.centered3{
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 10px;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+.centered31{
+    margin-top:-120px ;
+    margin-left:120px ;
+    color: rgb(61, 218, 55);
+}
+
+.centered11{
+    margin-top: 80px;
+    margin-left: 10px;
+    font-size: 10px;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+.centered12{
+    margin-top:-120px ;
+    margin-left:120px ;
+    color: rgb(95, 243, 92);
+}
+
